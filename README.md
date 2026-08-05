@@ -1,13 +1,17 @@
 # 📊 Are Entry-Level Data Analyst Jobs Really Entry-Level?
 
-This project analyzes whether job postings labeled as **Associate Data Analyst** are truly suitable for entry-level candidates.
+This project explores whether job postings labelled as **Associate Data Analyst** are genuinely suitable for entry-level candidates.
 
-## Repository Contents
+Instead of relying only on descriptive statistics, I developed a custom **Entry-Level Friendliness Index (ELFI)** to evaluate how accessible each position is based on experience requirements, technical skills, and additional hiring criteria.
 
-- 📓 Jupyter Notebook
-- 📊 Visualizations
-- 📈 Exploratory Data Analysis
-- ⚙️ Entry-Level Friendliness Index (ELFI)
+## Project Highlights
+
+- Analysis of **12,894** job postings
+- Skill extraction using regular expressions
+- Experience requirement detection
+- Custom ELFI scoring system
+- Exploratory Data Analysis (EDA)
+- Data visualizations with Matplotlib
 
 ## Technologies
 
@@ -15,9 +19,11 @@ This project analyzes whether job postings labeled as **Associate Data Analyst**
 - Pandas
 - Matplotlib
 - Regular Expressions
+- Jupyter Notebook
 
-## Open the notebook
+## Repository
 
-Open:
+- `Are_Entry_Level_Data_Analyst_Jobs_Really_Entry_Level.ipynb` – complete analysis
+- `LICENSE`
 
-`Are_Entry_Level_Data_Analyst_Jobs_Really_Entry_Level.ipynb`
+For the full methodology, code, visualizations, and conclusions, open the Jupyter Notebook.
