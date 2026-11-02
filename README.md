@@ -4,7 +4,7 @@
 
 I was looking for my first analyst job myself and kept seeing "Associate" roles that asked for years of experience. So I tested it on real job postings.
 
-[Open the notebook in Colab](https://colab.research.google.com/github/shvdkam/entry-level-data-analyst-jobs-analysis/blob/main/Are_Entry_Level_Data_Analyst_Jobs_Really_Entry_Level.ipynb)
+[Open the notebook in Colab](https://colab.research.google.com/github/shvdkam/entry-level-data-analyst-jobs-analysis/blob/main/Are_Entry_Level_Data_Analyst_Jobs_Really_Entry_Level_.ipynb)
 
 ## Data
 
